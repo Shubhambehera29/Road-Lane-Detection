@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (download separately)
+dataset/
+
+# Temporary inputs
+input_images/
+input_videos/
+
+# Generated outputs
+outputs/
+comparison_outputs/
+
+# Trained models (ignore if >100 MB)
+models/*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
