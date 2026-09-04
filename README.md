@@ -125,7 +125,7 @@ Lane-Segmentation-Using-UNet/
 
 ├── assets/
 │   ├── banner.png
-│   ├── demo.gif
+│   ├── output.mp4
 │   ├── architecture.png
 │   ├── original.png
 │   ├── groundtruth.png
